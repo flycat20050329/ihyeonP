@@ -4,7 +4,7 @@
 
     <div class="container text-center">
         <div class="headerButtons">
-            <div class="col">
+            <div class="col-2">
                 <a class="btn btn-outline-primary" href="#" role="button">
                     <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D809880019152627&tbnid=iYUUiMqeQpEUAM&
                     vet=12ahUKEwjO9a38yPj9AhXVRN4KHS88DfQQMygBegQIARA8..i&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FIhyeonHighschool
@@ -12,8 +12,30 @@
                     ved=2ahUKEwjO9a38yPj9AhXVRN4KHS88DfQQMygBegQIARA8" width="100" />
                 </a>
             </div>
-            <div>
-                
+            <div class="col-2">
+                <a class="btn btn-outline-primary" href="#" role="button">
+                    학교
+                </a>
+            </div>
+            <div class="col-2">
+                <a class="btn btn-outline-primary" href="#" role="button">
+                    학급
+                </a>
+            </div>
+            <div class="col-2">
+                <a class="btn btn-outline-primary" href="#" role="button">
+                    동아리
+                </a>
+            </div>
+            <div class="col-2">
+                <a class="btn btn-outline-primary" href="#" role="button">
+                    문의
+                </a>
+            </div>
+            <div class="col-2">
+                <a class="btn btn-outline-primary" href="#" role="button">
+                    로그인/회원가입
+                </a>
             </div>
         </div>
     </div>
