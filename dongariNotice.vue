@@ -1,0 +1,23 @@
+<template>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <div class="container text-center">
+        <div class="headerButtons">
+            <div class="col">
+                <a class="btn btn-outline-primary" href="#" role="button">
+                    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Flookaside.fbsbx.com%2Flookaside%2Fcrawler%2Fmedia%2F%3Fmedia_id%3D809880019152627&tbnid=iYUUiMqeQpEUAM&
+                    vet=12ahUKEwjO9a38yPj9AhXVRN4KHS88DfQQMygBegQIARA8..i&imgrefurl=https%3A%2F%2Fwww.facebook.com%2FIhyeonHighschool
+                    Studentcouncil%2F&docid=-vgeVmnangISdM&w=576&h=388&q=%EC%9D%B4%ED%98%84%EA%B3%A0%20%EB%A1%9C%EA%B3%A0&
+                    ved=2ahUKEwjO9a38yPj9AhXVRN4KHS88DfQQMygBegQIARA8" width="100" />
+                </a>
+            </div>
+            <div>
+                
+            </div>
+        </div>
+    </div>
+</template>
+<script>
+
+</script>
